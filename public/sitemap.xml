@@ -2,11 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/categories/</loc><lastmod>2020-08-08T21:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/pamukkale-universitesi-yonetim-bilisim-sistemleri-tanitimi-unilidenogren-2018/</loc><lastmod>2020-08-08T21:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/tags/pau/</loc><lastmod>2020-08-08T21:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/posts/</loc><lastmod>2020-08-08T21:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/tags/</loc><lastmod>2020-08-08T21:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/tags/ybs/</loc><lastmod>2020-08-08T21:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/</loc><lastmod>2020-08-08T21:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/categories/ybs-nedir/</loc><lastmod>2020-08-08T21:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://1heuqkvgkxyjsq.instant.forestry.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
