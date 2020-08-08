@@ -5,19 +5,30 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
-  label: home
+  label: Menü
 - type: directory
   path: content/posts
-  label: Posts
+  label: Postlar
   create: all
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: ".md"
   templates:
   - ayarlar
-upload_dir: uploads
-public_path: "/public"
+- type: document
+  path: content/about
+  label: Hakkımızda
+- type: document
+  path: content/tags
+  label: Etiketler
+- type: heading
+  label: Ayarlamalar
+- type: document
+  path: config.toml
+  label: Ayar
+upload_dir: static
+public_path: ''
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
