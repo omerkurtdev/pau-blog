@@ -8,4 +8,4 @@ featuredImage: ''
 featuredImagePreview: ''
 
 ---
-![](/public/pngwing-com.png)
+![](/static/pngwing-com.png)
