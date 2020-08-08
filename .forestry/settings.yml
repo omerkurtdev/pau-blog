@@ -4,14 +4,26 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Menü
 - type: directory
   path: content/posts
   label: Postlar
   create: all
   match: "**/*"
-  new_doc_ext: ''
+  new_doc_ext: app
   templates:
   - ayarlar
+- type: document
+  path: content/about
+  label: Hakkımızda
+  match: "**/*"
+- type: document
+  path: content/tags
+  label: Etiketler
+  match: "**/*"
+- type: heading
+  label: Ayarlamalar
 - type: document
   path: config.toml
   label: Ayar
