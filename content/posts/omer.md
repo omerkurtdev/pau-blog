@@ -1,28 +1,26 @@
 ---
-title: "Omer"
-subtitle: ""
-date: 2020-08-08T21:05:06+03:00
-lastmod: 2020-08-08T21:05:06+03:00
+title: Omer
+subtitle: ''
+date: 2020-08-08T21:05:06.000+03:00
+lastmod: 2020-08-08T21:05:06.000+03:00
 draft: true
-author: ""
-authorLink: ""
-description: ""
-
+author: ''
+authorLink: ''
+description: ''
 tags: []
 categories: []
-
 hiddenFromHomePage: false
 hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
+featuredImage: ''
+featuredImagePreview: ''
 toc:
   enable: true
 math:
   enable: false
 lightgallery: false
-license: ""
----
+license: ''
 
+---
 <!--more-->
+
+Deneme
