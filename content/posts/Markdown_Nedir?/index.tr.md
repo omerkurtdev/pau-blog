@@ -3,7 +3,7 @@ title: İlk Post
 author: Ömer Kurt
 authorLink: www.omerkurt.dev
 description: Merhaba
-lightgallery: false
+lightgallery: true
 featuredImage: "/pngwing-com.png"
 featuredImagePreview: "/pngwing-com.png"
 
