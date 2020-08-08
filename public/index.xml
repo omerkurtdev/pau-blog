@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>YBS BLOG</title>
+        <link>https://example.com/</link>
+        <description>Pamukkale Üniversitesi Yönetim Bilişim Sistemleri bölümü blog sayfası.</description>
+        <generator>Hugo -- gohugo.io</generator><language>tr</language><copyright>Bu çalışma, Creative Commons Attribution-NonCommercial 4.0 Uluslararası Lisansı kapsamında lisanslanmıştır.</copyright>
+            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
