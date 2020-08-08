@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: config.toml
-  label: Ayar
-- type: heading
-  label: home
 - type: directory
   path: content/posts
   label: Posts
@@ -17,6 +12,9 @@ sections:
   new_doc_ext: md
   templates:
   - ayarlar
+- type: document
+  path: config.toml
+  label: Ayar
 upload_dir: static
 public_path: ''
 front_matter_path: ''
