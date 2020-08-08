@@ -415,23 +415,23 @@ enableEmoji = true
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
-      Linkedin = false
+      Facebook = false
+      Linkedin = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
-      Pocket = false
+      Pocket = true
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
       Myspace = false
       Blogger = false
@@ -451,7 +451,7 @@ enableEmoji = true
         enable = true
         # Disqus shortname to use Disqus in posts
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-        shortname = ""
+        shortname = "pauybs-2"
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
