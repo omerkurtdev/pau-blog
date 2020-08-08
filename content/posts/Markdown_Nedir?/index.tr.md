@@ -8,4 +8,4 @@ featuredImage: "/pngwing-com.png"
 featuredImagePreview: "/pngwing-com.png"
 
 ---
-![](/pngwing-com.png)
+![](uploads/pngwing-com.png)
