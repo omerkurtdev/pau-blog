@@ -448,7 +448,7 @@ enableEmoji = true
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
-        enable = true
+        enable = false
         # Disqus shortname to use Disqus in posts
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = "pamukkaleybs"
@@ -463,9 +463,9 @@ enableEmoji = true
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = false
-        appId = "GP55g5Bgdwl3O9Pui3Sf7Y3a-MdYXbMMI"
-        appKey = "c2YElUUB6CQ8PGTqAKibHYdo"
+        enable = true
+        appId = "yk6Up7vQWv7oxMCpY8PgVUwk-MdYXbMMI"
+        appKey = "QuLIBUsATx7QTdN5iqWaq0Fa"
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -475,7 +475,6 @@ enableEmoji = true
         recordIP = true
         highlight = true
         enableQQ = false
-        serverURLs = "localhost"
         # emoji data file name, default is "google.yml"
         # ("apple.yml", "google.yml", "facebook.yml", "twitter.yml")
         # located in "themes/LoveIt/assets/data/emoji/" directory
