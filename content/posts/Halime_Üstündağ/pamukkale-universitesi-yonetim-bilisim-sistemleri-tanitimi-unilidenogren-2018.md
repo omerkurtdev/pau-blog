@@ -4,7 +4,7 @@ title: Pamukkale Üniversitesi Yönetim Bilişim Sistemleri Tanıtımı | Ünili
 subtitle: Pamukkale Üniversitesi Yönetim Bilişim Sistemleri Tanıtımı | ÜnilidenÖğren
   (2018)
 date: 2018-07-07T21:00:00Z
-lastmod: 
+lastmod: 2020-08-08T21:00:00Z
 draft: false
 author: Halime Üstündağ
 authorLink: https://www.linkedin.com/in/halimeustundag
@@ -26,4 +26,7 @@ lightgallery: true
 license: ''
 
 ---
-Deneme
+Halime Üstündağ'ın 2018 yılında yapmış olduğu video aşağıda bakalım neler demiş?
+<!--more-->
+
+{{< youtube 65WmS1OEAfw >}}
