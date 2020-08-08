@@ -21,6 +21,4 @@ lightgallery: false
 license: ''
 
 ---
-<!--more-->
-
-Deneme
+# Deneme
