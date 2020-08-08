@@ -17,11 +17,9 @@ sections:
 - type: document
   path: content/about
   label: Hakkımızda
-  match: "**/*"
 - type: document
   path: content/tags
   label: Etiketler
-  match: "**/*"
 - type: heading
   label: Ayarlamalar
 - type: document
