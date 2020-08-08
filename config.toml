@@ -68,29 +68,21 @@ enableEmoji = true
         title = ""
         weight = 3
       [[languages.tr.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Dokümanlar"
-        url = "/categories/documentation/"
-        title = ""
-        weight = 4
-      [[languages.tr.menu.main]]
         identifier = "about"
         pre = ""
         post = ""
         name = "Hakkımızda"
         url = "/about/"
         title = ""
-        weight = 5
-      [[languages.tr.menu.main]]
+        weight = 4
+       [[languages.tr.menu.main]]
         identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
+        pre = "<i class='fas fa-calendar-check'></i>"
         post = ""
         name = ""
         url = "https://github.com/dillonzq/LoveIt"
-        title = "GitHub"
-        weight = 6
+        title = "Yazı Planımız"
+        weight = 5
     [languages.tr.params]
       # site description
       description = "Pamukkale Üniversitesi Yönetim Bilişim Sistemleri bölümü blog sayfası."
@@ -141,7 +133,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/avatar.png"
+          avatarURL = "avatar.png"
           # title shown in home page (HTML format is supported)
           title = ""
           # subtitle shown in home page
@@ -159,15 +151,15 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.tr.params.social]
-        GitHub = "xxxx"
+        GitHub = "pauybs2019"
         Linkedin = ""
-        Twitter = "xxxx"
+        Twitter = "pauybs"
         Instagram = "pamukkaleybs"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
+        Facebook = ""
+        Telegram = "pauybs"
         Medium = ""
         Gitlab = ""
-        Youtubelegacy = "xxxx"
+        Youtubelegacy = ""
         Youtubecustom = ""
         Youtubechannel = ""
         Tumblr = ""
@@ -222,9 +214,7 @@ enableEmoji = true
         Bilibili = ""
         Email = "xxxx@xxxx.com"
         RSS = true
-        [languages.tr.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+ 
 
   
 [params]
@@ -267,7 +257,7 @@ enableEmoji = true
       name = "YBS BLOG"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
+      pre = "<i class='fas fa-terminal'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
