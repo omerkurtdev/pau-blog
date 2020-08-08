@@ -1,5 +1,6 @@
 ---
-title: index.tr.md
+title: Pamukkale Üniversitesi Yönetim Bilişim Sistemleri Tanıtımı | ÜnilidenÖğren
+  (2018)
 subtitle: Pamukkale Üniversitesi Yönetim Bilişim Sistemleri Tanıtımı | ÜnilidenÖğren
   (2018)
 date: 2018-07-07T21:00:00.000+00:00
