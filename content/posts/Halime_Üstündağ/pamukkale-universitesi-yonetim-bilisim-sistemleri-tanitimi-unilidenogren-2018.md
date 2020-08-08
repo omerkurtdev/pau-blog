@@ -26,7 +26,7 @@ lightgallery: true
 license: ''
 
 ---
-Halime Üstündağ'ın 2018 yılında yapmış olduğu video aşağıda bakalım neler demiş?
+Halime Üstündağ'ın 2018 yılında yapmış olduğu video aşağıda, bakalım neler demiş?
 <!--more-->
 
 {{< youtube 65WmS1OEAfw >}}
