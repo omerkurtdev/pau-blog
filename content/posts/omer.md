@@ -3,7 +3,7 @@ title: Deneme
 subtitle: ''
 date: 2020-08-08T21:05:06.000+03:00
 lastmod: 2020-08-08T21:05:06.000+03:00
-draft: true
+draft: false
 author: ''
 authorLink: ''
 description: ''
