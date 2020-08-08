@@ -64,3 +64,5 @@ fields:
 - type: text
   name: license
   label: license
+pages:
+- content/posts/Halime_Üstündağ/pamukkale-universitesi-yonetim-bilisim-sistemleri-tanitimi-unilidenogren-2018.md
