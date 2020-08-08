@@ -11,8 +11,8 @@ tags: []
 categories: []
 hiddenFromHomePage: false
 hiddenFromSearch: false
-featuredImage: ''
-featuredImagePreview: ''
+featuredImage: lbjnlj
+featuredImagePreview: vkhvk
 toc:
   enable: true
 math:
